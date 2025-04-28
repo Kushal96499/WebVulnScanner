@@ -42,12 +42,11 @@ python3 web_scanner.py
 Enter the target URL when prompted.
 
 📂 Files Included
-
-File	                        Description
-web_scanner.py	              Main scanner script
-vulnerability_report.txt	    SQLi and XSS vulnerability report
-directory_report.txt	        Discovered directories/pages report
-screenshots/	                Terminal screenshots (optional for GitHub)
+                        
+1.web_scanner.py	             
+2.vulnerability_report.txt	   
+3.directory_report.txt	        
+4.screenshots/	                
 
 📸 Sample Output
 
