@@ -1,5 +1,8 @@
-Web Application Vulnerability Scanner + Directory Scanner
-Internship Task for CodTech - Cyber Security
+# Web Application Vulnerability Scanner + Directory Scanner
+# Internship Task for CodTech - Cyber Security
+
+---
+
 📜 About the Project
 This is a Python-based Web Vulnerability Scanner that:
 
@@ -10,6 +13,8 @@ Detects Cross-Site Scripting (XSS) vulnerabilities
 Scans for hidden directories/pages using a wordlist
 
 The scanner automatically submits payloads to all forms and finds vulnerable input points.
+
+---
 
 ⚙️ Features
 🎯 Web Form Scanning
@@ -28,6 +33,8 @@ The scanner automatically submits payloads to all forms and finds vulnerable inp
 
 🎯 Fully Commented and Structured Code
 
+---
+
 🛠️ How to Run
 Install the required libraries:
 
@@ -41,12 +48,16 @@ python3 web_scanner.py
 
 Enter the target URL when prompted.
 
+---
+
 📂 Files Included
                         
 1.web_scanner.py	             
 2.vulnerability_report.txt	   
 3.directory_report.txt	        
-4.screenshots/	                
+4.screenshots/	
+
+---
 
 📸 Sample Output
 
@@ -54,6 +65,7 @@ Enter the target URL when prompted.
 
 
 
+---
 
 📜 Wordlist Used for Directory Scanning
 Some common hidden directories checked:
@@ -75,6 +87,8 @@ Some common hidden directories checked:
 /portal
 
 etc.
+
+---
 
 🧠 Developed By
 Developed by KUSHAL KUMAWAT
