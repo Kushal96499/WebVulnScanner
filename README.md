@@ -1,4 +1,4 @@
-#Web Application Vulnerability Scanner + Directory Scanner
+Web Application Vulnerability Scanner + Directory Scanner
 Internship Task for CodTech - Cyber Security
 📜 About the Project
 This is a Python-based Web Vulnerability Scanner that:
