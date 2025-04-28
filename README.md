@@ -1,9 +1,19 @@
 # Web Application Vulnerability Scanner + Directory Scanner
-# Internship Task for CodTech - Cyber Security
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: KUSHAL KUMAWAT
+
+*INTERN ID*: CT04DK768
+
+*DOMAIN*: Cyber Security & Ethical Hacking
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 ---
 
-📜 About the Project
+# 📜 About the Project
 This is a Python-based Web Vulnerability Scanner that:
 
 Detects SQL Injection (SQLi) vulnerabilities
@@ -16,7 +26,7 @@ The scanner automatically submits payloads to all forms and finds vulnerable inp
 
 ---
 
-⚙️ Features
+# ⚙️ Features
 🎯 Web Form Scanning
 
 🎯 SQL Injection Detection
@@ -35,7 +45,7 @@ The scanner automatically submits payloads to all forms and finds vulnerable inp
 
 ---
 
-🛠️ How to Run
+# 🛠️ How to Run
 Install the required libraries:
 
 pip3 install requests beautifulsoup4 colorama
@@ -50,7 +60,7 @@ Enter the target URL when prompted.
 
 ---
 
-📂 Files Included
+# 📂 Files Included
                         
 1.web_scanner.py	             
 2.vulnerability_report.txt	   
@@ -59,7 +69,7 @@ Enter the target URL when prompted.
 
 ---
 
-📸 Sample Output
+# 📸 Sample Output
 
 ![Image](https://github.com/user-attachments/assets/038c8c2d-680d-42af-982c-9d41e814257f)
 
@@ -67,7 +77,7 @@ Enter the target URL when prompted.
 
 ---
 
-📜 Wordlist Used for Directory Scanning
+# 📜 Wordlist Used for Directory Scanning
 Some common hidden directories checked:
 
 /admin
@@ -90,8 +100,8 @@ etc.
 
 ---
 
-🧠 Developed By
+# 🧠 Developed By
 Developed by KUSHAL KUMAWAT
 Under the CodTech Cyber Security Internship (Task 2)
 
-🚀 Thank You!
+# 🚀 Thank You!
