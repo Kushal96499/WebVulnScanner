@@ -61,7 +61,7 @@ Enter the target URL when prompted.
 
 📸 Sample Output
 
-
+![Image](https://github.com/user-attachments/assets/038c8c2d-680d-42af-982c-9d41e814257f)
 
 
 
